@@ -1,0 +1,15 @@
+# Executáveis e arquivos compilados
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+/cadastro
+
+# Dados locais gerados pelo programa
+clientes.dat
+
+# Arquivos temporários de editor e sistema
+.vscode/
+.DS_Store
+Thumbs.db
